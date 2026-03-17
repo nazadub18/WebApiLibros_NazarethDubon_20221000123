@@ -1,0 +1,6 @@
+@WebApiLibros_NazarethDubon_20221000123_HostAddress = http://localhost:5236
+
+GET {{WebApiLibros_NazarethDubon_20221000123_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
